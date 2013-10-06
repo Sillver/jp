@@ -25,7 +25,7 @@ przykładowy program w c:
 
 ```sh
 #include<studio>
-mail()(
+main()(
 printf(*hello word*);
 }...
 
