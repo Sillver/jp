@@ -37,3 +37,4 @@ printf(*hello word*);
 ```sh
 tar jxvf Sublime\ Text\ 2.0.2.tar.bz2
 cd sublime\ Text\ 2/
+chmod 755 sublime_test
