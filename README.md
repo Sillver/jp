@@ -4,8 +4,9 @@ jp
 praca na dzisiaj:
 
 
-* omawianie notacji markdown
-* 
+* omawianie notacji markdown)[daringfireball]
+* podstawy secure shell
+* edytory
 
 
 
@@ -28,3 +29,4 @@ mail()(
 print(*hello word*);
 }...
 
+[daringfireball]: http://daringfireball.net/projects/markdown/syntax
