@@ -1,7 +1,8 @@
 jp
 ==
 
-Repozytorium do zajęć z Języków Programowania
+praca na dzisiaj:
+*
 
 ## zmiana hasła
 
@@ -9,7 +10,7 @@ Repozytorium do zajęć z Języków Programowania
 passwd
 ```
 
-byc moze
+byc moze trzeba będzie się zalogować na sigmę
 
 ```sh
 obin225@gmail.com
