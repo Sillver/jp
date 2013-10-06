@@ -13,7 +13,7 @@ praca na dzisiaj:
 ## zmiana hasła
 
 ```sh
-passwd
+passwd #ctrl+c aby przerwać
 ```
 
 byc moze trzeba będzie się zalogować na sigmę
