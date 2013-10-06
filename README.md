@@ -30,3 +30,10 @@ printf(*hello word*);
 }...
 
 [daringfireball]: http://daringfireball.net/projects/markdown/syntax
+
+## edytory
+*rozpakowania
+
+```sh
+tar jxvf Sublime\ Text\ 2.0.2.tar.bz2
+
