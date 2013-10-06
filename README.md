@@ -26,7 +26,7 @@ przykładowy program w c:
 ```sh
 #include<studio>
 mail()(
-print(*hello word*);
+printf(*hello word*);
 }...
 
 [daringfireball]: http://daringfireball.net/projects/markdown/syntax
