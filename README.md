@@ -2,7 +2,12 @@ jp
 ==
 
 praca na dzisiaj:
-*
+
+
+* omawianie notacji markdown
+* 
+
+
 
 ## zmiana hasła
 
